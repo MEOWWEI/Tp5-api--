@@ -1,0 +1,66 @@
+---------------------------------------------------------------
+[ 2019-12-31T12:16:55+08:00 ] 127.0.0.1 GET www.tp5-api.com/
+[ error ] [0]致命错误: Class 'Route' not found[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\config\route.php:11]
+---------------------------------------------------------------
+[ 2019-12-31T15:22:29+08:00 ] 127.0.0.1 GET www.tp5-api.com/
+[ error ] [0]致命错误: Class 'Route' not found[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\config\route.php:11]
+---------------------------------------------------------------
+[ 2019-12-31T15:22:32+08:00 ] 127.0.0.1 GET www.tp5-api.com/
+[ error ] [0]致命错误: Class 'Route' not found[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\config\route.php:11]
+---------------------------------------------------------------
+[ 2019-12-31T17:06:28+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [10103]appid不存在[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\common.php:182]
+---------------------------------------------------------------
+[ 2019-12-31T17:16:16+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [10103]appid不存在[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\common.php:182]
+---------------------------------------------------------------
+[ 2019-12-31T17:16:22+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [10103]appid不存在[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\common.php:182]
+---------------------------------------------------------------
+[ 2019-12-31T17:16:24+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [10103]appid不存在[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\common.php:182]
+---------------------------------------------------------------
+[ 2019-12-31T17:16:26+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [10103]appid不存在[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\common.php:182]
+---------------------------------------------------------------
+[ 2019-12-31T17:16:51+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [10103]appid不存在[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\common.php:182]
+---------------------------------------------------------------
+[ 2019-12-31T17:17:04+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [10103]appid不存在[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\common.php:182]
+---------------------------------------------------------------
+[ 2019-12-31T17:17:07+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [10103]appid不存在[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\common.php:182]
+---------------------------------------------------------------
+[ 2019-12-31T17:20:20+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [10103]appid不存在[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\common.php:182]
+---------------------------------------------------------------
+[ 2019-12-31T17:20:22+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [10103]appid不存在[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\common.php:182]
+---------------------------------------------------------------
+[ 2019-12-31T17:20:23+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [10103]appid不存在[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\common.php:182]
+---------------------------------------------------------------
+[ 2019-12-31T17:21:04+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [0]致命错误: Class 'think\facade\Request' not found[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\api\controller\Index.php:69]
+---------------------------------------------------------------
+[ 2019-12-31T17:21:46+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [8192]Non-static method think\Request::param() should not be called statically[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\api\controller\Index.php:70]
+---------------------------------------------------------------
+[ 2019-12-31T17:22:15+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [0]致命错误: Class 'think\facade\Request' not found[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\api\controller\Index.php:70]
+---------------------------------------------------------------
+[ 2019-12-31T17:29:27+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [0]致命错误: Call to undefined method app\api\controller\Index::json()[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\api\controller\Index.php:163]
+---------------------------------------------------------------
+[ 2019-12-31T17:45:19+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [0]致命错误: Class 'think\facade\Request' not found[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\api\controller\Index.php:70]
+---------------------------------------------------------------
+[ 2019-12-31T17:46:07+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [0]致命错误: Class 'think\facade\Request' not found[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\api\controller\Index.php:70]
+---------------------------------------------------------------
+[ 2019-12-31T17:46:25+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [0]致命错误: Call to undefined method app\api\controller\Index::index_car_list()[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\api\controller\Index.php:135]
+---------------------------------------------------------------
+[ 2019-12-31T17:46:45+08:00 ] 127.0.0.1 GET www.tp5-api.com/api/index/main
+[ error ] [8]未定义变量: data[D:\Project\xingtu_dongliuwulian\TP-vue-admin\tp5-api\application\api\controller\Index.php:164]
