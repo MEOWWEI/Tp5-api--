@@ -147,7 +147,6 @@ class Index extends Controller
                      'aveorder'=>$aveorder,//订单均价
                      'ordercars'=>$ordercars,//订单/车的比例
                      'time'=>$time,//当前时间
-
                      'arr_arra'=>$arr_arra,
                      'cont'=>$arr,
                      'conts'=>$array,
